@@ -30,7 +30,7 @@ async def pm_next_page(bot, query):
     try: offset = int(offset)
     except: offset = 0
     search = temp.PM_BUTTONS.get(str(key))
-    if not search: return await query.answer("Yᴏᴜ Aʀᴇ Usɪɴɢ Oɴᴇ Oғ Mʏ Oʟᴅ Mᴇssᴀɢᴇs, Pʟᴇᴀsᴇ Sᴇɴᴅ Tʜᴇ Rᴇǫᴜᴇsᴛ Aɢᴀɪɴ", show_alert=True)
+    if not search: return await query.answer("ᴊᴏɪɴ https://t.me/movie_hubby Rᴇǫᴜᴇsᴛ Aɢᴀɪɴ", show_alert=True)
 
     files, n_offset, total = await get_search_results(search.lower(), offset=offset, filter=True)
     try: n_offset = int(n_offset)
@@ -83,7 +83,7 @@ async def pm_spoll_tester(bot, query):
         return await query.message.delete()
     movies = temp.PM_SPELL.get(str(query.message.reply_to_message.id))
     if not movies:
-        return await query.answer("Yᴏᴜ Aʀᴇ Usɪɴɢ Oɴᴇ Oғ Mʏ Oʟᴅ Mᴇssᴀɢᴇs, Pʟᴇᴀsᴇ Sᴇɴᴅ Tʜᴇ Rᴇǫᴜᴇsᴛ Aɢᴀɪɴ", show_alert=True)
+        return await query.answer("ᴊᴏɪɴ https://t.me/movie_hubby Rᴇǫᴜᴇsᴛ Aɢᴀɪɴ", show_alert=True)
     movie = movies[(int(movie_))]
     await query.answer('Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ...')
     files, offset, total_results = await get_search_results(movie, offset=0, filter=True)
