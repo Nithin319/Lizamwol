@@ -120,7 +120,7 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## TELAGRAM SUPPORT 
 
-* [![ᵗᵐ𝚕𝚒𝚣𝚊](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/movie_hubby)
+* [![ᵗᵐ𝚕𝚒𝚣𝚊](https://img.shields.io/static/v1?label=TEAM&message=LIZAMWOL&color=critical)](https://t.me/movie_hubby)
 
 ## Credit 💞
 
