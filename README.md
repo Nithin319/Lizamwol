@@ -120,11 +120,11 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## TELAGRAM SUPPORT 
 
-* [![MKN BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/movie_hubby)
+* [![ᵗᵐ𝚕𝚒𝚣𝚊](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/movie_hubby)
 
 ## Credit 💞
 
-* [![TEAM EVA-MARIA](https://img.shields.io/static/v1?label=TEAM&message=ᴍᴜᴅɪʏᴀɴ&color=yellow)](https://t.me/TeamEvamaria)
+* [![TEAM 𝚕𝚒𝚣𝚊𝚖𝚠𝚘𝚕](https://img.shields.io/static/v1?label=TEAM&message=ᴍᴜᴅɪʏᴀɴ&color=yellow)](https://t.me/Mudiyanmass)
 
 * [![BASE REPO](https://img.shields.io/static/v1?label=BASE&message=REPO&color=green)](https://t.me/Mudiyanmass)
 
